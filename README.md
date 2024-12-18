@@ -1,8 +1,6 @@
 # DashBoard inteligente com IA 💻
 
-De acordo com o desafio proposto pelo DIO - digital innovation one em gerar dashboard a partir de planilha no excel.
-
-Usaremos de ferramenta de IA, para gerar dashbords inteligente a partir de prompt, ou seja através de linha de comandos em linguagem natural.
+De acordo com o desafio proposto pelo DIO - digital Innovation One em gerar dashboard a partir de planilha no excel, aceitei o desafio e me propôs a melhorar o processo de resolução através de IA, assim ao invés de fazer a dashboard no excel usaremos de ferramenta de IA, para gerar dashbords inteligente a partir de prompt, ou seja através de linha de comandos em linguagem natural.
 
 # Ferramentas utilizadas: 
 
@@ -35,9 +33,23 @@ Usando a plataforma Claude através da sequencia prompts abaixo conseguimos gera
   <figcaption>planilha original</figcaption>
 </figure>
 
+
 4 - gere um gráfico de linha com os itens que foram crescendo em valores durante os meses.
+
 
 <figure>
   <img src="https://firebasestorage.googleapis.com/v0/b/banco01-9e30b.appspot.com/o/repostorio_img%2FCaptura%20de%20tela%202024-12-18%20180455.png?alt=media&token=8eb6f758-644c-4b3c-9f00-079369c2f696">
   <figcaption>planilha original</figcaption>
 </figure>
+
+
+<p align="center"><a 
+href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" 
+src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
+href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
+href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" 
+src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
+href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
+src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /></a> 
+</p>
