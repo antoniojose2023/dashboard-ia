@@ -24,17 +24,20 @@ O Claude AI é um modelo de linguagem de inteligência artificial avançado, sim
 Usando a plataforma Claude através da sequencia prompts abaixo conseguimos gerar os gráficos do dashboard.
 
 1 - Você deve anexar a planilha ao Claude
+
 2 - Convertar a planilha em json
+
 3 - gere um gráfico de barras com todos os custos
 
+
 <figure>
-  <img src="[https://firebasestorage.googleapis.com/v0/b/banco01-9e30b.appspot.com/o/repostorio_img%2FCaptura%20de%20tela%202024-12-18%20160629.png?alt=media&token=32c50df1-0182-40c7-b2f5-392cf2766841" alt="Minha Figura](https://firebasestorage.googleapis.com/v0/b/banco01-9e30b.appspot.com/o/repostorio_img%2FCaptura%20de%20tela%202024-12-18%20175734.png?alt=media&token=da82be4a-0157-45fb-8765-765e334aa811)">
+  <img src="https://firebasestorage.googleapis.com/v0/b/banco01-9e30b.appspot.com/o/repostorio_img%2FCaptura%20de%20tela%202024-12-18%20175734.png?alt=media&token=da82be4a-0157-45fb-8765-765e334aa811">
   <figcaption>planilha original</figcaption>
 </figure>
 
 4 - gere um gráfico de linha com os itens que foram crescendo em valores durante os meses.
 
 <figure>
-  <img src="[https://firebasestorage.googleapis.com/v0/b/banco01-9e30b.appspot.com/o/repostorio_img%2FCaptura%20de%20tela%202024-12-18%20160629.png?alt=media&token=32c50df1-0182-40c7-b2f5-392cf2766841" alt="Minha Figura](https://firebasestorage.googleapis.com/v0/b/banco01-9e30b.appspot.com/o/repostorio_img%2FCaptura%20de%20tela%202024-12-18%20180455.png?alt=media&token=8eb6f758-644c-4b3c-9f00-079369c2f696)">
+  <img src="https://firebasestorage.googleapis.com/v0/b/banco01-9e30b.appspot.com/o/repostorio_img%2FCaptura%20de%20tela%202024-12-18%20180455.png?alt=media&token=8eb6f758-644c-4b3c-9f00-079369c2f696">
   <figcaption>planilha original</figcaption>
 </figure>
