@@ -1,6 +1,6 @@
 # DashBoard inteligente com IA 💻
 
-De acordo com o desafio proposto pelo DIO - digital Innovation One em gerar dashboard a partir de planilha no excel, aceitei o desafio e me propôs a melhorar o processo de resolução através de IA, assim ao invés de fazer a dashboard no excel usaremos de ferramenta de IA, para gerar dashbords inteligente a partir de prompt, ou seja através de linha de comandos em linguagem natural.
+De acordo com o desafio proposto pelo DIO - digital Innovation One em gerar dashboard a partir de planilha no excel, aceitei o desafio e me propôs a melhorar o processo de resolução do problema através de IA, assim ao invés de fazer a dashboard no excel usaremos de ferramenta de IA, para gerar dashboards inteligente a partir de prompt, ou seja através de linha de comandos em linguagem natural.
 
 # Ferramentas utilizadas: 
 
@@ -44,7 +44,7 @@ Usando a plataforma Claude através da sequencia prompts abaixo conseguimos gera
 
 
 <p align="center"><a 
-href="https://github.com/antoniojose2023?tab=repositories" target="_blank"><img alt="Github" 
+href="https://github.com/antoniojose2023" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
 href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
